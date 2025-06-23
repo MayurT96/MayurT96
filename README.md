@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! 👋 I'm Mayur Tamkhane</h1>
 
 <p align="center">
-  🐇 Bunny from Dhule, Maharashtra | 💻 Passionate Web Developer & C++ DSA Explorer | 🌍 Dreaming to Code in Dubai 🇦🇪
+  🐇 Bunny from Dhule, Maharashtra | 💻 Passionate Web Developer & C++ DSA Explorer | 🌍 Dreaming to Code in 🇦🇪
 </p>
 
 ---
