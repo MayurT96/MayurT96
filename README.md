@@ -12,7 +12,7 @@
 - 🎓 BE in Computer Engineering  
 - 🔭 Currently working on **Web Development Projects**  
 - 💡 Learning **Data Structures and Algorithms in C++**  
-- 🚀 Dream: To become a Software Engineer in a top Dubai-based IT company  
+- 🚀 Dream: To become a Software Engineer in a top IT company  
 - 🎯 Goal: Master Full Stack Development  
 - 🧘 Fun fact: I code better with lo-fi music & chai ☕  
 
