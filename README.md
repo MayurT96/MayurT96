@@ -74,13 +74,7 @@ readme, change the `?username=` value to your GitHub's username.
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-## Use theme
 
-Add optional parameter of the theme.
-
-```
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-```
 
 ### 👁️‍🗨️ Visitor Counter:
 
