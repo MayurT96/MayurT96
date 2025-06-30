@@ -1,91 +1,60 @@
+<h1 align="center">Hi 👋, I'm Mayur Tamkhane</h1>
+<h3 align="center">A passionate Web Developer & DSA Explorer from India</h3>
 
-<h1 align="center">Hey there! 👋 I'm Mayur Tamkhane</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<p align="center">
-  🐇 Bunny from Dhule, Maharashtra | 💻 Passionate Web Developer & C++ DSA Explorer | 🌍 Dreaming to Code in 🇦🇪
+- 🔭 I’m currently working on **DSA in C++ & Full Stack Projects**
+
+- 🌱 I’m currently learning **React.js, Node.js and Advanced DSA**
+
+- 👯 I’m looking to collaborate on **Open Source & Web Projects**
+
+- 💬 Ask me about **HTML, CSS, JavaScript, C++, Git**
+
+- 📫 How to reach me: **[mayurtamkhane96@gmail.com](mailto:mayurtamkhane96@gmail.com)**
+
+- ⚡ Fun fact: **I love coding while listening to lofi music 🎧**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/mayur-tamkhane-7a9726243" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://github.com/MayurT96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" /></a>
+  <a href="mailto:mayurtamkhane96@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me:
-
-- 🎓 BE in Computer Engineering  
-- 🔭 Currently working on **Web Development Projects**  
-- 💡 Learning **Data Structures and Algorithms in C++**  
-- 🚀 Dream: To become a Software Engineer in a top IT company  
-- 🎯 Goal: Master Full Stack Development  
-- 🧘 Fun fact: I code better with lo-fi music & chai ☕  
-
----
-
-### 🛠️ Tech Stack:
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurt96&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurt96&layout=compact&theme=radical" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
 ---
 
-<div align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
-  <h2 align="center">GitHub Profile Trophy</h2>
-  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
-</div>
-<div align="center">
+📊 **GitHub Stats:**
 
-[![stargazers](https://img.shields.io/github/stars/MayurT96/github-profile-trophy)](https://github.com/MayurT96/github-profile-trophy/stargazers)
-[![forks](https://img.shields.io/github/forks/MayurT96/github-profile-trophy)](https://github.com/MayurT96/github-profile-trophy/network/members)
-[![issues](https://img.shields.io/github/issues/MayurT96/github-profile-trophy)](https://github.com/MayurT96/github-profile-trophy/issues)
-[![license](https://img.shields.io/github/license/MayurT96/github-profile-trophy)](https://github.com/MayurT96/github-profile-trophy/blob/master/LICENSE)
-[![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FMayurT96%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Check%20out%20my%20GitHub%20trophies!&url=https%3A%2F%2Fgithub.com%2FMayurT96%2Fgithub-profile-trophy)
-
-</div>
 <p align="center">
-  You can use this service for free. I'm supporting it with ❤️
+  <img src="https://github-readme-stats.vercel.app/api?username=MayurT96&show_icons=true&locale=en" alt="mayurt96" />
 </p>
-<div align="center">
-  <a href="https://github.com/sponsors/ryo-ma">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" alt="Sponsor"/>
-  </a>
-</div>
-
----
-
-### 🏆 My GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MayurT96&theme=gruvbox&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MayurT96&show_icons=true&locale=en&layout=compact" alt="mayurt96" />
 </p>
-
-
-### 👁️‍🗨️ Visitor Counter:
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayurt96&label=Profile%20Views&color=blue&style=flat" alt="Mayur's GitHub Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayurT96" alt="mayurt96" />
 </p>
 
 ---
 
-### 📬 Let's Connect!
+🏆 **GitHub Trophies**
 
-- 💼 LinkedIn: [Mayur Tamkhane](https://www.linkedin.com/in/mayur-tamkhane-7a9726243)
-- 📧 Email: [mayurtamkhane96@gmail.com](mailto:mayurtamkhane96@gmail.com)
-
----
-
-_“Code like a warrior 🧠, think like a monk 🧘, dream like a king 👑”_
-
----
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MayurT96&theme=onedark&margin-w=15&margin-h=15"/>
+</p>
