@@ -1,63 +1,51 @@
-<h1 align="center">Hi 👋, I'm Mayur Tamkhane</h1>
-<h3 align="center">🚀 Aspiring Full Stack Web Developer | DSA Enthusiast | Lifelong Learner</h3>
+<!-- Mayur Tamkhane's Customized GitHub README -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
-</p>
+<!-- ✨ LinkedIn-style Banner -->
+<img src="https://github.com/user-attachments/assets/8cc8ab44-8b9d-45b5-b777-84f35c3cb5f8" alt="LinkedIn Banner" width="100%">
 
----
+# 💫 About Me:
+### 🧑‍💻 Web Developer | Aspiring Full Stack Engineer | Open Source Contributor
+- 🌍 From **Dhule, Maharashtra, India**
+- 🎓 **BE in Computer Engineering** from KBC NMU
+- 🌱 Currently learning **DSA (C++)**, **Next.js**, **TypeScript**
+- 🤝 Open to **collaborations**, **internships**, **hackathons**
+- 🚀 Preparing for a full-stack career in **Dubai**
+- ✨ Dreaming big: explore the world and become a top developer
 
-### 🧑‍💻 About Me:
-- 🎓 BE in Computer Engineering from KBC NMU, Jalgaon  
-- 🌱 Currently mastering **C++ DSA**, **React**, and **Node.js**
-- 🛠️ Exploring Full Stack Projects & Competitive Coding
-- 💡 Always eager to learn new tech & solve real-world problems
-- 📫 Email: [mayurtamkhane96@gmail.com](mailto:mayurtamkhane96@gmail.com)
-
----
-
-### 🧰 Languages and Tools:
-
+# 🔗 Connect With Me:
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/mayur-tamkhane-7a9726243"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
+  <a href="https://github.com/MayurT96"><img src="https://skillicons.dev/icons?i=github" height="35" /></a>
+  <a href="mailto:mayurtamkhane96@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
+  <a href="https://leetcode.com/u/mayurtamkhane"><img src="https://skillicons.dev/icons?i=leetcode" height="35" /></a>
+</p>
+
+# 🛠 Skills:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,git,github,vercel,netlify,tailwind,bootstrap,figma,typescript,c,java,python" />
+</p>
+
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MayurT96&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MayurT96&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayurT96&theme=tokyo-night&radius=14" />
+</p>
+
+# 🔝 Most Used Languages:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayurT96&layout=compact&theme=tokyonight" />
+
+# 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MayurT96&theme=radical&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
-### 🔗 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-tamkhane-7a9726243)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/MayurT96)
-
----
-
-### 🏆 GitHub Trophies
+### “Keep building, stay consistent, and never stop learning.”
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MayurT96&theme=radical&margin-w=15&margin-h=15" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MayurT96&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayurT96&theme=github-dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayurT96&layout=compact&theme=github_dark" />
-</p>
-
----
-
-### 🐍 Contribution Snake Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MayurT96/MayurT96/output/github-contribution-grid-snake.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
