@@ -1,243 +1,106 @@
-# 💫 About Me:
-### Mentor At @topmate.io 🔹 @Linkedin 6K+ Family 🔹 Software Developer 🔹 Building @CryptoMinds Community 🔹 MERN Stack 🔹 Ex GSSoC '24 Mentor
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" /> Open Source Contributor from **India** 🇮🇳
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" /> I'm a **Student** and **Web Developer**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" align=center /> I’m currently working on **Web Development & Freelancing** 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" align=center /> I’m currently learning **TypeScript And NextJS**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align=center /> I’m looking to collaborate with **Open Source Enthusiasts** and **Developers**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="30" align=center /> **2025 Goals:** Learn **Machine Learning**, **AI**, **Full Stack NextJS & TypeScript** And strengthen **DSA**
+<!-- Profile Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00f4,100:00cfc8&height=200&section=header&text=Mayur%20Tamkhane&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-
-<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Socials </h1>
-<p align="left">
-  <a href="https://x.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourusername" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/yourusername/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your Name" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourusername" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/yourusername/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yourusername" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/yourusername/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yourusername" height="30" width="40" /></a>
-  <a href="https://linktr.ee/yourusername" target="blank"><img align="center" src="https://github.com/yourusername/assets/yourimage" alt="yourusername" height="40" width="40" /></a>
-  <a href="https://topmate.io/yourusername" target="blank"><img align="center" src="https://github.com/yourusername/assets/yourimage" alt="yourusername" height="30" width="30" /></a>
-   <a href="https://codolio.com/profile/yourusername" target="blank"><img align="center" src="https://github.com/user-attachments/assets/yourimage" alt="yourusername" height="35" width="35" /></a>
-</p>
-
-<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> 💻
-
-<table align="center" class="table table-dark">
-  <tr bg-dark>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="55" height="55" />
-      <br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
-      <br>React Js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
-      <br>HTML
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
-      <br>CSS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
-      <br>Node Js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
-      <br>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=latex" alt="icon" width="55" height="55" />
-      <br>Latex
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="55" height="55" />
-      <br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
-      <br>Figma
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="55" height="55" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="55" height="55" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="55" height="55" />
-      <br>Vite
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=stackoverflow" alt="icon" width="55" height="55" />
-      <br>Stackoverflow
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=npm" alt="icon" width="55" height="55" />
-      <br>Npm
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="55" height="55" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="55" height="55" />
-      <br>Linux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=netlify" alt="icon" width="55" height="55" />
-      <br>Netlify
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="55" height="55" />
-      <br>Vercel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=discord" alt="icon" width="55" height="55" />
-      <br>Discord
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=instagram" alt="icon" width="55" height="55" />
-      <br>Instagram
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="55" height="55" />
-      <br>LinkedIn
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="55" height="55" />
-      <br>Firebase
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=replit" alt="icon" width="55" height="55" />
-      <br>Replit
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="55" height="55" />
-      <br>Postman
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" alt="icon" width="55" height="55" />
-      <br>C
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="55" height="55" />
-      <br>Redux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=autocad" alt="icon" width="55" height="55" />
-      <br>AutoCad
-    </td>
-  </tr>
-</table>
-
-<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-# 🚀 Top Repositories
 <p align="center">
-    <a href="https://github.com/yourusername/your-repo-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-1&theme=tokyonight&icon_color=CB9DF0&text_color=CB9DF0&bg_color=000000" />
-    </a>
-    <a href="https://github.com/yourusername/your-repo-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-2&theme=tokyonight&icon_color=CB9DF0&text_color=CB9DF0&bg_color=000000" />
-    </a>
-    <a href="https://github.com/yourusername/your-repo-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-3&theme=tokyonight&icon_color=CB9DF0&text_color=CB9DF0&bg_color=000000" />
-    </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=A+Passionate+MERN+Stack+Developer;DSA+Enthusiast+%7C+Problem+Solver;Open+Source+Contributor;Aspiring+Software+Engineer"/>
 </p>
+
 <p align="center">
-    <a href="https://github.com/yourusername/your-repo-4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-4&theme=tokyonight&icon_color=CB9DF0&text_color=CB9DF0&bg_color=000000" />
-    </a>
-    <a href="https://github.com/yourusername/your-repo-5">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-5&theme=tokyonight&icon_color=CB9DF0&text_color=CB9DF0&bg_color=000000" />
-    </a>
-    <a href="https://github.com/yourusername/your-repo-6">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-6&theme=tokyonight&icon_color=CB9DF0&text_color=CB9DF0&bg_color=000000" />
-    </a>
+  <img src="https://komarev.com/ghpvc/?username=MayurT96&label=Profile%20views&color=0e75b6&style=flat" alt="MayurT96" />
 </p>
 
-# 📊 GitHub Over Time
+---
+
+# 💫 About Me
+
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=yourusername&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-    </td>
-  </tr>
+<tr>
+  <td>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="30" /> I'm from <strong>Dhule, Maharashtra, India</strong> 🇮🇳<br/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" /> Completed <strong>BE in Computer Engineering</strong> from KBC NMU, Jalgaon<br/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> Learning <strong>Full Stack Web Development & Freelancing</strong><br/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30" /> Focused on <strong>TypeScript</strong>, <strong>Next.js</strong> and <strong>DSA in C++</strong><br/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" /> Collaborating on <strong>Open Source Projects</strong><br/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="30" /> <strong>2025 Goals:</strong> Master Full Stack, Learn AI/ML, Contribute to OSS
+  </td>
+</tr>
 </table>
 
-# 🔝 Most Used Languages
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3&langs_count=10&hide_border=true" alt="yourusername" />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" alt="Profile Summary" />
-    </td>
-  </tr>
-</table>
+---
 
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yourusername&theme=tokyonight&include_all_commits=true&count_private=true">         
-    </td>
-    <td>
-      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=tokyonight&include_all_commits=true&count_private=true">
-    </td>
-    <td>
-      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=tokyonight&include_all_commits=true&count_private=true">
-    </td>
-    <td>
-      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=tokyonight&utcOffset=8&include_all_commits=true&count_private=true">
-    </td>
-  </tr>
-</table>
-</div>
+## 🌐 Connect With Me
 
-# ⚡Activity Graph
-<div align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&radius=14&include_all_commits=true&count_private=true&hide_border=false"/> 
-</div>
+<p align="center">
+  <a href="https://x.com/" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mayur-tamkhane-7a9726243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://leetcode.com/MayurT96/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:mayurtamkhane96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-# ⚡ Achievements & Stackoverflow
-<table>
-  <tr>
-    <
+---
+
+## 💻 Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,mongodb,html,css,tailwind,git,github,python,java,latex,vite,vercel,netlify,postman,redux,c,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MayurT96&theme=tokyonight&show_icons=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com/?user=MayurT96&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayurT96&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MayurT96&theme=radical&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🔝 Featured Projects
+<p align="center">
+  <a href="https://github.com/MayurT96/DSA-Array"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=DSA-Array&theme=tokyonight" /></a>
+  <a href="https://github.com/MayurT96/LinkedList-DSA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=LinkedList-DSA&theme=tokyonight" /></a>
+  <a href="https://github.com/MayurT96/Web-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=Web-Projects&theme=tokyonight" /></a>
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayurT96&theme=tokyo-night" />
+</p>
+
+---
+
+## 🔥 3D Contribution Map
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayurT96/MayurT96/output-3d-contrib/night.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayurT96/MayurT96/output-3d-contrib/day.svg" />
+    <img alt="3D Contributions" src="https://raw.githubusercontent.com/MayurT96/MayurT96/output-3d-contrib/night.svg" />
+  </picture>
+</p>
+
+---
+
+## ✍️ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<p align="center"><strong>🚀 "Code. Learn. Build. Repeat!"</strong></p>
