@@ -31,8 +31,6 @@
 
 ---
 
-### 🔥 Top Repositories
-
 <p align="center">
   <a href="https://github.com/MayurT96/30-Days-Of-DSA">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=30-Days-Of-DSA&theme=radical" />
