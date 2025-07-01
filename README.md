@@ -11,9 +11,8 @@
 - 🎓 BE in Computer Engineering  
 - 🔭 Currently working on *Web Development Projects*  
 - 💡 Learning *Data Structures and Algorithms in C++*  
-- 🚀 Dream: To become a Software Engineer in a top IT company in ae
+- 🚀 Dream: To become a Software Engineer in a top IT company in 🇦🇪  
 - 🎯 Goal: Master Full Stack Development  
-- 
 
 ---
 
@@ -30,6 +29,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
+
+### 📌 Highlighted Projects
 
 <p align="center">
   <a href="https://github.com/MayurT96/30-Days-Of-DSA">
@@ -58,6 +59,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MayurT96&show_icons=true&theme=radical" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayurT96&layout=compact&theme=radical" />
 </p>
 
