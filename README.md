@@ -1,106 +1,89 @@
-<!-- Profile Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00f4,100:00cfc8&height=200&section=header&text=Mayur%20Tamkhane&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<h1 align="center">Hey there! 👋 I'm Mayur Tamkhane</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=A+Passionate+MERN+Stack+Developer;DSA+Enthusiast+%7C+Problem+Solver;Open+Source+Contributor;Aspiring+Software+Engineer"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MayurT96&label=Profile%20views&color=0e75b6&style=flat" alt="MayurT96" />
+  🐇 Bunny from Dhule, Maharashtra | 💻 Passionate Web Developer & C++ DSA Explorer | 🌍 Dreaming to Code in 🇦🇪
 </p>
 
 ---
 
-# 💫 About Me
+### 👨‍💻 About Me:
 
-<table>
-<tr>
-  <td>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="30" /> I'm from <strong>Dhule, Maharashtra, India</strong> 🇮🇳<br/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" /> Completed <strong>BE in Computer Engineering</strong> from KBC NMU, Jalgaon<br/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> Learning <strong>Full Stack Web Development & Freelancing</strong><br/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30" /> Focused on <strong>TypeScript</strong>, <strong>Next.js</strong> and <strong>DSA in C++</strong><br/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" /> Collaborating on <strong>Open Source Projects</strong><br/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="30" /> <strong>2025 Goals:</strong> Master Full Stack, Learn AI/ML, Contribute to OSS
-  </td>
-</tr>
-</table>
+- 🎓 BE in Computer Engineering  
+- 🔭 Currently working on *Web Development Projects*  
+- 💡 Learning *Data Structures and Algorithms in C++*  
+- 🚀 Dream: To become a Software Engineer in a top IT company  
+- 🎯 Goal: Master Full Stack Development  
+- 🧘 Fun fact: I code better with lo-fi music & chai ☕  
 
 ---
 
-## 🌐 Connect With Me
+### 🛠 Tech Stack:
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
 
 <p align="center">
-  <a href="https://x.com/" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mayur-tamkhane-7a9726243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://leetcode.com/MayurT96/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:mayurtamkhane96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurt96&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurt96&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 💻 Languages and Tools
+<div align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
+  <h2 align="center">GitHub Profile Trophy</h2>
+  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
+</div>
+<div align="center">
+
+[![stargazers](https://img.shields.io/github/stars/MayurT96/github-profile-trophy)](https://github.com/MayurT96/github-profile-trophy/stargazers)
+[![forks](https://img.shields.io/github/forks/MayurT96/github-profile-trophy)](https://github.com/MayurT96/github-profile-trophy/network/members)
+[![issues](https://img.shields.io/github/issues/MayurT96/github-profile-trophy)](https://github.com/MayurT96/github-profile-trophy/issues)
+[![license](https://img.shields.io/github/license/MayurT96/github-profile-trophy)](https://github.com/MayurT96/github-profile-trophy/blob/master/LICENSE)
+[![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FMayurT96%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Check%20out%20my%20GitHub%20trophies!&url=https%3A%2F%2Fgithub.com%2FMayurT96%2Fgithub-profile-trophy)
+
+</div>
+<p align="center">
+  You can use this service for free. I'm supporting it with ❤
+</p>
+<div align="center">
+  <a href="https://github.com/sponsors/ryo-ma">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" alt="Sponsor"/>
+  </a>
+</div>
+
+---
+
+### 🏆 My GitHub Trophies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,mongodb,html,css,tailwind,git,github,python,java,latex,vite,vercel,netlify,postman,redux,c,linux" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MayurT96&theme=gruvbox&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+</p>
+
+
+### 👁‍🗨 Visitor Counter:
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayurt96&label=Profile%20Views&color=blue&style=flat" alt="Mayur's GitHub Profile Views" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MayurT96&theme=tokyonight&show_icons=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com/?user=MayurT96&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayurT96&layout=compact&theme=tokyonight" />
-</p>
+### 📬 Let's Connect!
+
+- 💼 LinkedIn: [Mayur Tamkhane](https://www.linkedin.com/in/mayur-tamkhane-7a9726243)
+- 📧 Email: [mayurtamkhane96@gmail.com](mailto:mayurtamkhane96@gmail.com)
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MayurT96&theme=radical&no-bg=true&margin-w=15&margin-h=15" />
-</p>
+“Code like a warrior 🧠, think like a monk 🧘, dream like a king 👑”
 
 ---
-
-## 🔝 Featured Projects
-<p align="center">
-  <a href="https://github.com/MayurT96/DSA-Array"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=DSA-Array&theme=tokyonight" /></a>
-  <a href="https://github.com/MayurT96/LinkedList-DSA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=LinkedList-DSA&theme=tokyonight" /></a>
-  <a href="https://github.com/MayurT96/Web-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=Web-Projects&theme=tokyonight" /></a>
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayurT96&theme=tokyo-night" />
-</p>
-
----
-
-## 🔥 3D Contribution Map
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayurT96/MayurT96/output-3d-contrib/night.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayurT96/MayurT96/output-3d-contrib/day.svg" />
-    <img alt="3D Contributions" src="https://raw.githubusercontent.com/MayurT96/MayurT96/output-3d-contrib/night.svg" />
-  </picture>
-</p>
-
----
-
-## ✍️ Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
-<p align="center"><strong>🚀 "Code. Learn. Build. Repeat!"</strong></p>
