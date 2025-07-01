@@ -6,84 +6,88 @@
 
 ---
 
-### 👨‍💻 About Me:
+### 👨‍💻 About Me
 
-- 🎓 BE in Computer Engineering  
+- 🎓 BE in Computer Engineering (KBC NMU, Jalgaon)  
 - 🔭 Currently working on *Web Development Projects*  
 - 💡 Learning *Data Structures and Algorithms in C++*  
-- 🚀 Dream: To become a Software Engineer in a top IT company  
+- 🚀 Dream: To become a Software Engineer in a top IT company in Dubai  
 - 🎯 Goal: Master Full Stack Development  
-- 🧘 Fun fact: I code better with lo-fi music & chai ☕  
+- 🧘 Fun fact: I code better with lo-fi music & chai ☕
 
 ---
 
-### 🛠 Tech Stack:
+### 🛠 Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats:
+### 🔥 Top Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurt96&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurt96&layout=compact&theme=radical" />
-</p>
-
----
-
-<div align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
-  <h2 align="center">GitHub Profile Trophy</h2>
-  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
-</div>
-<div align="center">
-
-[![stargazers](https://img.shields.io/github/stars/MayurT96/github-profile-trophy)](https://github.com/MayurT96/github-profile-trophy/stargazers)
-[![forks](https://img.shields.io/github/forks/MayurT96/github-profile-trophy)](https://github.com/MayurT96/github-profile-trophy/network/members)
-[![issues](https://img.shields.io/github/issues/MayurT96/github-profile-trophy)](https://github.com/MayurT96/github-profile-trophy/issues)
-[![license](https://img.shields.io/github/license/MayurT96/github-profile-trophy)](https://github.com/MayurT96/github-profile-trophy/blob/master/LICENSE)
-[![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FMayurT96%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Check%20out%20my%20GitHub%20trophies!&url=https%3A%2F%2Fgithub.com%2FMayurT96%2Fgithub-profile-trophy)
-
-</div>
-<p align="center">
-  You can use this service for free. I'm supporting it with ❤
-</p>
-<div align="center">
-  <a href="https://github.com/sponsors/ryo-ma">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" alt="Sponsor"/>
+  <a href="https://github.com/MayurT96/30-Days-Of-DSA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=30-Days-Of-DSA&theme=radical" />
   </a>
-</div>
+  <a href="https://github.com/MayurT96/OOPs-In-Cpp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=OOPs-In-Cpp&theme=radical" />
+  </a>
+  <a href="https://github.com/MayurT96/Backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=Backend&theme=radical" />
+  </a>
+  <a href="https://github.com/MayurT96/JavaScript-Ultimate-Code">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=JavaScript-Ultimate-Code&theme=radical" />
+  </a>
+  <a href="https://github.com/MayurT96/Backend-Template-JavaScript">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=Backend-Template-JavaScript&theme=radical" />
+  </a>
+  <a href="https://github.com/MayurT96/Backend-Template-TypeScript">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=Backend-Template-TypeScript&theme=radical" />
+  </a>
+</p>
 
 ---
 
-### 🏆 My GitHub Trophies
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MayurT96&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayurT96&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MayurT96&theme=gruvbox&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
 </p>
 
+---
 
-### 👁‍🗨 Visitor Counter:
+### 👁‍🗨 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayurt96&label=Profile%20Views&color=blue&style=flat" alt="Mayur's GitHub Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MayurT96&label=Profile%20Views&color=blue&style=flat" alt="Mayur's GitHub Profile Views" />
 </p>
 
 ---
 
 ### 📬 Let's Connect!
 
-- 💼 LinkedIn: [Mayur Tamkhane](https://www.linkedin.com/in/mayur-tamkhane-7a9726243)
-- 📧 Email: [mayurtamkhane96@gmail.com](mailto:mayurtamkhane96@gmail.com)
+- 💼 [LinkedIn: Mayur Tamkhane](https://www.linkedin.com/in/mayur-tamkhane-7a9726243)
+- 📧 [Email: mayurtamkhane96@gmail.com](mailto:mayurtamkhane96@gmail.com)
 
 ---
 
-“Code like a warrior 🧠, think like a monk 🧘, dream like a king 👑”
-
----
+<p align="center"><b>
+  “Code like a warrior 🧠, think like a monk 🧘, dream like a king 👑”
+</b></p>
