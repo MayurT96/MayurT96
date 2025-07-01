@@ -30,28 +30,7 @@
 
 ---
 
-### 📌 Highlighted Projects
 
-<p align="center">
-  <a href="https://github.com/MayurT96/30-Days-Of-DSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=30-Days-Of-DSA&theme=radical" />
-  </a>
-  <a href="https://github.com/MayurT96/OOPs-In-Cpp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=OOPs-In-Cpp&theme=radical" />
-  </a>
-  <a href="https://github.com/MayurT96/Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=Backend&theme=radical" />
-  </a>
-  <a href="https://github.com/MayurT96/JavaScript-Ultimate-Code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=JavaScript-Ultimate-Code&theme=radical" />
-  </a>
-  <a href="https://github.com/MayurT96/Backend-Template-JavaScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=Backend-Template-JavaScript&theme=radical" />
-  </a>
-  <a href="https://github.com/MayurT96/Backend-Template-TypeScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurT96&repo=Backend-Template-TypeScript&theme=radical" />
-  </a>
-</p>
 
 ---
 
