@@ -8,12 +8,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 BE in Computer Engineering (KBC NMU, Jalgaon)  
+- 🎓 BE in Computer Engineering  
 - 🔭 Currently working on *Web Development Projects*  
 - 💡 Learning *Data Structures and Algorithms in C++*  
-- 🚀 Dream: To become a Software Engineer in a top IT company in Dubai  
+- 🚀 Dream: To become a Software Engineer in a top IT company in ae
 - 🎯 Goal: Master Full Stack Development  
-- 🧘 Fun fact: I code better with lo-fi music & chai ☕
+- 
 
 ---
 
